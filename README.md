@@ -111,7 +111,7 @@ Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenh
 
 
 <!--
-- 🔭 
+- 
 -->
 
 
