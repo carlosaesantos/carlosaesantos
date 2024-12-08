@@ -10,6 +10,7 @@ Penso em me qualificar mais e um dia expandir meus conhecimentos e trabalhar fut
 Falo o bàsico de alguns idiomas como o Inglês, Espanhol, Italiano e Croata. Como dito anteriormente, estou me qualificando para entrar e me fixar no universo da TI, tenho um bom relacionamento interpessoal, sou empático, resiliente, 
 Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenho boa adaptabilidade em mudanças de ambientes de trabalho sendo o mais ágil e atento possível para mudanças de atividades. Para falar a verdade, gosto muito de desafios: 
 [website]: https://caes2021@bol.com.br
+[website]: https://www.linkedin.com/in/carlosandreevaristo
 
 <p align="left">
       <a href="https://www.youtube.com/c/carlosaesantos?sub_confirmation=1">
