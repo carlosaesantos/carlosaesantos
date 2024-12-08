@@ -124,7 +124,8 @@ Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenh
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langsusername=carlosaesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
