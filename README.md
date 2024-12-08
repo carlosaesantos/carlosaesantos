@@ -96,20 +96,15 @@ Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-// server.mjs
-import { createServer } from 'node:http';
-
-const server = createServer((req, res) => {
-  res.writeHead(200, { 'Content-Type': 'text/plain' });
-  res.end('Hello World!\n');
-});
-
-// starts a simple http server locally on port 3000
-server.listen(3000, '127.0.0.1', () => {
-  console.log('Listening on 127.0.0.1:3000');
-});
-
-// run with `node server.mjs`
+/>
+<img 
+    align="left" 
+    alt="Nodejs"
+    title="Nodejs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
 
 <br/>
