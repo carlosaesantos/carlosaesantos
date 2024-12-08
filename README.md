@@ -1,6 +1,6 @@
 ## Desenvolvedor Front-End
 ## Oi, eu sou o Carlos André Evaristo dos Santos
-  Tenho 45 anos e sou estudante de Análise e Desenvolvimento de Sistemas e moro no Brasil: 
+  Tenho 45 anos e sou estudante de Análise e Desenvolvimento de Sistemas e moro em Pernambuco, Brasil: 
 Sou programador web Front-End e tenho conhecimento em html, css, Javascript, React, SQL e Python: 
 A pouco tempo consegui me qualificar em aws cloud practitioner e em introduction to FinOps
 Estou em transição de carreira e sonho em conseguir meu primeiro emprego em TI: 
