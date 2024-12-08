@@ -3,7 +3,7 @@
 **Desenvolvedor Front-End**
 
   Tenho 45 anos e sou estudante de Análise e Desenvolvimento de Sistemas e moro em Pernambuco, Brasil.
-Tenho conhecimento em **html e css como linguagens de desenvolvimento e de Javascript, React, SQL e Python como linguagens de programação:** 
+Tenho conhecimento em **html, css, Javascript, React, SQL e Python.** 
 Consegui me qualificar em aws practitioner cloud e em introduction to FinOps.
 Estou em transição de carreira e sonho em conseguir meu primeiro emprego em TI. 
 Penso em me qualificar mais e um dia expandir meus conhecimentos e trabalhar futuramente com IA, Banco do Dados com IA e Segurança da Informação em Cloud. 
