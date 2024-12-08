@@ -2,7 +2,7 @@
 
 **Desenvolvedor Front-End**
 
-  Tenho 45 anos e sou estudante de Análise e Desenvolvimento de Sistemas e moro em Pernambuco, Brasil.
+  Tenho 45 anos, sou estudante de Análise e Desenvolvimento de Sistemas e moro em Paulista, Pernambuco, Brasil.
 Tenho conhecimento em **html, css, Javascript, React, SQL e Python.** 
 Consegui me qualificar em **aws practitioner cloud e em introduction to FinOps**.
 Estou em transição de carreira e sonho em conseguir meu primeiro emprego em TI. 
