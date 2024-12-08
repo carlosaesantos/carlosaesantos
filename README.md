@@ -1,5 +1,6 @@
-## Desenvolvedor Front-End
-## Oi, eu sou o Carlos André Evaristo dos Santos
+## Carlos Evaristo
+
+**Desenvolvedor Front-End**
   Tenho 45 anos e sou estudante de Análise e Desenvolvimento de Sistemas e moro em Pernambuco, Brasil: 
 Sou programador web Front-End e tenho conhecimento em html, css, Javascript, React, SQL e Python: 
 A pouco tempo consegui me qualificar em aws cloud practitioner e em introduction to FinOps
@@ -8,11 +9,6 @@ Penso em qualificar mais e um dia expandir meus conhecimentos e trabalhar futura
 Falo o bàsico de alguns idiomas como o Inglês, Espanhol, Italiano e Croata: ... Como dito anteriormente, estou me qualificando para entrar e me fixar no universo da TI, tenho um bom relacionamento interpessoal, sou empático, resiliente, 
 Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenho boa adaptabilidade em mudanças de ambientes de trabalho e procuro ser o mais ágil 
 possível para mudanças de atividade. Para falar a verdade, gosto muito de desafios: 
-# 👩🏻‍💻 Larissa Kich
-
-**`Desenvolvedora FullStack`**
-
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
