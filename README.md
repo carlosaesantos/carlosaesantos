@@ -4,7 +4,7 @@
 
   Tenho 45 anos e sou estudante de Análise e Desenvolvimento de Sistemas e moro em Pernambuco, Brasil.
 Tenho conhecimento em **html e css como linguagens de desenvolvimento e de Javascript, React, SQL e Python como linguagens de programação:** 
-Consegui me qualificar em aws cloud e em introduction to FinOps.
+Consegui me qualificar em aws practitioner cloud e em introduction to FinOps.
 Estou em transição de carreira e sonho em conseguir meu primeiro emprego em TI. 
 Penso em qualificar mais e um dia expandir meus conhecimentos e trabalhar futuramente com IA, Banco do Dados com IA e Segurança da Informação em Cloud. 
 Falo o bàsico de alguns idiomas como o Inglês, Espanhol, Italiano e Croata. Como dito anteriormente, estou me qualificando para entrar e me fixar no universo da TI, tenho um bom relacionamento interpessoal, sou empático, resiliente, 
