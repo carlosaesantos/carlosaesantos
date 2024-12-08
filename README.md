@@ -10,22 +10,9 @@ Penso em me qualificar mais e um dia expandir meus conhecimentos e trabalhar fut
 Falo o bàsico de alguns idiomas como o Inglês, Espanhol, Italiano e Croata. Como dito anteriormente, estou me qualificando para entrar e me fixar no universo da TI, tenho um bom relacionamento interpessoal, sou empático, resiliente, 
 Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenho boa adaptabilidade em mudanças de ambientes de trabalho sendo o mais ágil e atento possível para mudanças de atividades. Para falar a verdade, gosto muito de desafios: 
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/carlosaesantos?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -85,8 +72,6 @@ Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-dn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
 <img 
     align="left" 
     alt="Bootstrap"
@@ -95,7 +80,6 @@ dn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
 <img 
     align="left" 
     alt="JQuery" 
