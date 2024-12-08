@@ -13,4 +13,4 @@ Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenh
 possível para mudanças de atividade. Para falar a verdade, gosto muito de desafios: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
