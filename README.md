@@ -1,4 +1,4 @@
-## Olá! Me chamo Carlos Evaristo 👋
+## Olá! Sou Carlos Evaristo 👋
 
 <!--
 - 🔭 Oi, eu sou o Carlos André Evaristo dos Santos, tenho 45 anos e sou estudante de Análise e Desenvolvimento de Sistemas e moro no Brasil: ...
