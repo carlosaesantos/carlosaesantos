@@ -8,8 +8,7 @@ Consegui me qualificar em aws practitioner cloud e em introduction to FinOps.
 Estou em transição de carreira e sonho em conseguir meu primeiro emprego em TI. 
 Penso em me qualificar mais e um dia expandir meus conhecimentos e trabalhar futuramente com IA, Banco do Dados com IA e Segurança da Informação em Cloud. 
 Falo o bàsico de alguns idiomas como o Inglês, Espanhol, Italiano e Croata. Como dito anteriormente, estou me qualificando para entrar e me fixar no universo da TI, tenho um bom relacionamento interpessoal, sou empático, resiliente, 
-Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenho boa adaptabilidade em mudanças de ambientes de trabalho e procuro ser o mais ágil 
-possível para mudanças de atividade. Para falar a verdade, gosto muito de desafios: 
+Tenho um sentimento colaborativo, procuro ser sempre bastante responsável, tenho boa adaptabilidade em mudanças de ambientes de trabalho e tentando ser o mais ágil e responsivo possível para mudanças de atividades. Para falar a verdade, gosto muito de desafios: 
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
